@@ -49,7 +49,7 @@ Sidra API credentials (for asset payments)
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/sidra-online-marketplace.git
+git clone https://github.com/mulord92/sidra-online-marketplace.git
 
 
 2. Navigate to the project folder

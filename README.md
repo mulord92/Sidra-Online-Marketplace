@@ -1,10 +1,10 @@
-Sidra Online Marketplace
+Online Marketplace For Sidra Ecosystem
 
 An online marketplace designed to operate within the Sidra ecosystem, enabling transactions using Sidra digital assets. This platform provides users with a seamless experience for buying, selling, and trading within a secure, decentralized framework powered by Sidra.
 
 🚀 Project Overview
 
-The Sidra Online Marketplace connects buyers and sellers within the Sidra community, supporting both digital and physical goods. Leveraging the Sidra asset ecosystem, users can transact with ease, making the marketplace a central hub for Sidra-based commerce.
+The Online Marketplace connects buyers and sellers within the Sidra community, supporting both digital and physical goods. Leveraging the Sidra asset ecosystem, users can transact with ease, making the marketplace a central hub for Sidra-based commerce.
 
 🌟 Key Features
 
